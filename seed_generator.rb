@@ -1,6 +1,6 @@
-# Author: Gazza
+# Author: Gazza | gazaly(at)gmail(dot)com
 # Notes:
-# Simulate a variety of user-actions
+# Simulate a variety of user-actions for Stacked ( http://code.google.com/p/stacked/ )
 # Dependencies:
 # $ gem install capybara faker
 
